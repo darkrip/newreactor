@@ -1,0 +1,18 @@
+Project NewReactor
+
+
+1.	General
+
+	1.	Backend
+		Php (Version ?)
+	2.	Database 
+		MySQL (Version ?)
+	3.	Frontend
+		?
+
+
+2.	Database structure
+
+
+  
+
